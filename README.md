@@ -101,11 +101,13 @@ Error Path → Build Error Response → Respond With Error
 ---
 
 **5. CALL RESULTS LOG**
+
 call_results Trigger
 ↓
 Extract All Input Arguments
 ↓
 Create or Update Airtable Record
+
 ---
 
 
